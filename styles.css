@@ -48,7 +48,7 @@ nav ul li a:hover {
 }
 
 #intro {
-    background-color: #663399;
+    background: linear-gradient(135deg, #45226b, #ad55ff, #3e1768);
     color: white;
     text-align: center;
 }
